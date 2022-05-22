@@ -1,0 +1,9 @@
+{
+    "name": "Random Color",
+    "id": "2100000001",
+    "api": "1.0.0",
+    "main": "dist/code.js",
+    "editorType": [
+        "figma"
+    ]
+}
